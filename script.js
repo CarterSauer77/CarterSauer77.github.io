@@ -34,5 +34,5 @@ function calcGPG() {
 
 function highlightAchievement() {
   document.getElementById("awardMsg").innerHTML =
-    "Ronaldo’s 2016 Euro win with Portugal is a top achievement!";
+    "Ronaldo's 2016 Euro win with Portugal is a top achievement!";
 }
